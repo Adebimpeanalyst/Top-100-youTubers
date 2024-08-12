@@ -14,10 +14,6 @@
 The objective of this data analysis project is to explore and visualize key metrics related to the top 100 YouTubers. Using Power BI, we aim to analyze their performance based on various factors such as subscribers, views, uploads, earnings, and demographics. The data will help in understanding trends and patterns within the YouTube landscape, especially focusing on how these factors correlate with success on the platform.
 
 
-![Screenshot 2024-08-12 150047](https://github.com/user-attachments/assets/be1bed0e-5259-467f-8781-35871ab0ec26)
-![Screenshot 2024-08-12 144936](https://github.com/user-attachments/assets/41518e63-974a-4964-8d7e-873cbafac1e9)
-![Screenshot 2024-08-12 145218](https://github.com/user-attachments/assets/f35ac963-0bd2-42fa-ae24-8e2f7dac9d03)
-
 ### Goals: 
 - Correlation Analysis: Investigate the relationship between the educational enrollment of YouTubers and their performance metrics.
 - Demographic Insights: Analyze how age correlates with the number of subscribers and views to determine demographic trends.
@@ -51,6 +47,11 @@ Three Dashboards were created they include:
 1. Views and Subscription : To analyze audience engagement and growth potential.
 2. Earnings: To provide insights into the financial performance of YouTubers.
 3. Country: To analyze YouTube performance by geographical location.
+
+
+![Screenshot 2024-08-12 150047](https://github.com/user-attachments/assets/be1bed0e-5259-467f-8781-35871ab0ec26)
+![Screenshot 2024-08-12 144936](https://github.com/user-attachments/assets/41518e63-974a-4964-8d7e-873cbafac1e9)
+![Screenshot 2024-08-12 145218](https://github.com/user-attachments/assets/f35ac963-0bd2-42fa-ae24-8e2f7dac9d03)
 
 The creation of these dashboards allows for a holistic view of the YouTube ecosystem, enabling users to make informed decisions based on data. By breaking down the analysis into these three key areas—views and subscriptions, earnings, and country-specific data—stakeholders can better understand the dynamics of YouTube, optimize their strategies, and achieve greater success on the platform.
 
