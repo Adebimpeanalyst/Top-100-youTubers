@@ -14,6 +14,10 @@
 The objective of this data analysis project is to explore and visualize key metrics related to the top 100 YouTubers. Using Power BI, we aim to analyze their performance based on various factors such as subscribers, views, uploads, earnings, and demographics. The data will help in understanding trends and patterns within the YouTube landscape, especially focusing on how these factors correlate with success on the platform.
 
 
+![Screenshot 2024-08-12 150047](https://github.com/user-attachments/assets/be1bed0e-5259-467f-8781-35871ab0ec26)
+![Screenshot 2024-08-12 144936](https://github.com/user-attachments/assets/41518e63-974a-4964-8d7e-873cbafac1e9)
+![Screenshot 2024-08-12 145218](https://github.com/user-attachments/assets/f35ac963-0bd2-42fa-ae24-8e2f7dac9d03)
+
 ### Goals: 
 - Correlation Analysis: Investigate the relationship between the educational enrollment of YouTubers and their performance metrics.
 - Demographic Insights: Analyze how age correlates with the number of subscribers and views to determine demographic trends.
